@@ -1,0 +1,981 @@
+Input matrix size: 28
+Input number of matrices: 487
+
+Looking at had.28.1
+Rank: 26
+Looking at had.28.2
+Rank: 26
+Looking at had.28.3
+Rank: 26
+Looking at had.28.4
+Rank: 26
+Looking at had.28.5
+Rank: 26
+Looking at had.28.6
+Rank: 26
+Looking at had.28.7
+Rank: 26
+Looking at had.28.8
+Rank: 26
+Looking at had.28.9
+Rank: 26
+Looking at had.28.10
+Rank: 26
+Looking at had.28.11
+Rank: 26
+Looking at had.28.12
+Rank: 26
+Looking at had.28.13
+Rank: 26
+Looking at had.28.14
+Rank: 26
+Looking at had.28.15
+Rank: 26
+Looking at had.28.16
+Rank: 26
+Looking at had.28.17
+Rank: 26
+Looking at had.28.18
+Rank: 26
+Looking at had.28.19
+Rank: 26
+Looking at had.28.20
+Rank: 26
+Looking at had.28.21
+Rank: 26
+Looking at had.28.22
+Rank: 26
+Looking at had.28.23
+Rank: 26
+Looking at had.28.24
+Rank: 26
+Looking at had.28.25
+Rank: 26
+Looking at had.28.26
+Rank: 26
+Looking at had.28.27
+Rank: 26
+Looking at had.28.28
+Rank: 26
+Looking at had.28.29
+Rank: 26
+Looking at had.28.30
+Rank: 26
+Looking at had.28.31
+Rank: 26
+Looking at had.28.32
+Rank: 26
+Looking at had.28.33
+Rank: 26
+Looking at had.28.34
+Rank: 26
+Looking at had.28.35
+Rank: 26
+Looking at had.28.36
+Rank: 26
+Looking at had.28.37
+Rank: 26
+Looking at had.28.38
+Rank: 26
+Looking at had.28.39
+Rank: 26
+Looking at had.28.40
+Rank: 26
+Looking at had.28.41
+Rank: 26
+Looking at had.28.42
+Rank: 26
+Looking at had.28.43
+Rank: 26
+Looking at had.28.44
+Rank: 26
+Looking at had.28.45
+Rank: 26
+Looking at had.28.46
+Rank: 26
+Looking at had.28.47
+Rank: 26
+Looking at had.28.48
+Rank: 26
+Looking at had.28.49
+Rank: 26
+Looking at had.28.50
+Rank: 26
+Looking at had.28.51
+Rank: 26
+Looking at had.28.52
+Rank: 26
+Looking at had.28.53
+Rank: 26
+Looking at had.28.54
+Rank: 26
+Looking at had.28.55
+Rank: 26
+Looking at had.28.56
+Rank: 26
+Looking at had.28.57
+Rank: 26
+Looking at had.28.58
+Rank: 26
+Looking at had.28.59
+Rank: 26
+Looking at had.28.60
+Rank: 26
+Looking at had.28.61
+Rank: 26
+Looking at had.28.62
+Rank: 26
+Looking at had.28.63
+Rank: 26
+Looking at had.28.64
+Rank: 26
+Looking at had.28.65
+Rank: 26
+Looking at had.28.66
+Rank: 26
+Looking at had.28.67
+Rank: 26
+Looking at had.28.68
+Rank: 26
+Looking at had.28.69
+Rank: 26
+Looking at had.28.70
+Rank: 26
+Looking at had.28.71
+Rank: 26
+Looking at had.28.72
+Rank: 26
+Looking at had.28.73
+Rank: 26
+Looking at had.28.74
+Rank: 26
+Looking at had.28.75
+Rank: 26
+Looking at had.28.76
+Rank: 26
+Looking at had.28.77
+Rank: 26
+Looking at had.28.78
+Rank: 26
+Looking at had.28.79
+Rank: 26
+Looking at had.28.80
+Rank: 26
+Looking at had.28.81
+Rank: 26
+Looking at had.28.82
+Rank: 26
+Looking at had.28.83
+Rank: 26
+Looking at had.28.84
+Rank: 26
+Looking at had.28.85
+Rank: 26
+Looking at had.28.86
+Rank: 26
+Looking at had.28.87
+Rank: 26
+Looking at had.28.88
+Rank: 26
+Looking at had.28.89
+Rank: 26
+Looking at had.28.90
+Rank: 26
+Looking at had.28.91
+Rank: 26
+Looking at had.28.92
+Rank: 26
+Looking at had.28.93
+Rank: 26
+Looking at had.28.94
+Rank: 26
+Looking at had.28.95
+Rank: 26
+Looking at had.28.96
+Rank: 26
+Looking at had.28.97
+Rank: 26
+Looking at had.28.98
+Rank: 26
+Looking at had.28.99
+Rank: 26
+Looking at had.28.100
+Rank: 26
+Looking at had.28.101
+Rank: 26
+Looking at had.28.102
+Rank: 26
+Looking at had.28.103
+Rank: 26
+Looking at had.28.104
+Rank: 26
+Looking at had.28.105
+Rank: 26
+Looking at had.28.106
+Rank: 26
+Looking at had.28.107
+Rank: 26
+Looking at had.28.108
+Rank: 26
+Looking at had.28.109
+Rank: 26
+Looking at had.28.110
+Rank: 26
+Looking at had.28.111
+Rank: 26
+Looking at had.28.112
+Rank: 26
+Looking at had.28.113
+Rank: 26
+Looking at had.28.114
+Rank: 26
+Looking at had.28.115
+Rank: 26
+Looking at had.28.116
+Rank: 26
+Looking at had.28.117
+Rank: 26
+Looking at had.28.118
+Rank: 26
+Looking at had.28.119
+Rank: 26
+Looking at had.28.120
+Rank: 26
+Looking at had.28.121
+Rank: 26
+Looking at had.28.122
+Rank: 26
+Looking at had.28.123
+Rank: 26
+Looking at had.28.124
+Rank: 26
+Looking at had.28.125
+Rank: 26
+Looking at had.28.126
+Rank: 26
+Looking at had.28.127
+Rank: 26
+Looking at had.28.128
+Rank: 26
+Looking at had.28.129
+Rank: 26
+Looking at had.28.130
+Rank: 26
+Looking at had.28.131
+Rank: 26
+Looking at had.28.132
+Rank: 26
+Looking at had.28.133
+Rank: 26
+Looking at had.28.134
+Rank: 26
+Looking at had.28.135
+Rank: 26
+Looking at had.28.136
+Rank: 26
+Looking at had.28.137
+Rank: 26
+Looking at had.28.138
+Rank: 26
+Looking at had.28.139
+Rank: 26
+Looking at had.28.140
+Rank: 26
+Looking at had.28.141
+Rank: 26
+Looking at had.28.142
+Rank: 26
+Looking at had.28.143
+Rank: 26
+Looking at had.28.144
+Rank: 26
+Looking at had.28.145
+Rank: 26
+Looking at had.28.146
+Rank: 26
+Looking at had.28.147
+Rank: 26
+Looking at had.28.148
+Rank: 26
+Looking at had.28.149
+Rank: 26
+Looking at had.28.150
+Rank: 26
+Looking at had.28.151
+Rank: 26
+Looking at had.28.152
+Rank: 26
+Looking at had.28.153
+Rank: 26
+Looking at had.28.154
+Rank: 26
+Looking at had.28.155
+Rank: 26
+Looking at had.28.156
+Rank: 26
+Looking at had.28.157
+Rank: 26
+Looking at had.28.158
+Rank: 26
+Looking at had.28.159
+Rank: 26
+Looking at had.28.160
+Rank: 26
+Looking at had.28.161
+Rank: 26
+Looking at had.28.162
+Rank: 26
+Looking at had.28.163
+Rank: 26
+Looking at had.28.164
+Rank: 26
+Looking at had.28.165
+Rank: 26
+Looking at had.28.166
+Rank: 26
+Looking at had.28.167
+Rank: 26
+Looking at had.28.168
+Rank: 26
+Looking at had.28.169
+Rank: 26
+Looking at had.28.170
+Rank: 26
+Looking at had.28.171
+Rank: 26
+Looking at had.28.172
+Rank: 26
+Looking at had.28.173
+Rank: 26
+Looking at had.28.174
+Rank: 26
+Looking at had.28.175
+Rank: 26
+Looking at had.28.176
+Rank: 26
+Looking at had.28.177
+Rank: 26
+Looking at had.28.178
+Rank: 26
+Looking at had.28.179
+Rank: 26
+Looking at had.28.180
+Rank: 26
+Looking at had.28.181
+Rank: 26
+Looking at had.28.182
+Rank: 26
+Looking at had.28.183
+Rank: 26
+Looking at had.28.184
+Rank: 26
+Looking at had.28.185
+Rank: 26
+Looking at had.28.186
+Rank: 26
+Looking at had.28.187
+Rank: 26
+Looking at had.28.188
+Rank: 26
+Looking at had.28.189
+Rank: 26
+Looking at had.28.190
+Rank: 26
+Looking at had.28.191
+Rank: 26
+Looking at had.28.192
+Rank: 26
+Looking at had.28.193
+Rank: 26
+Looking at had.28.194
+Rank: 26
+Looking at had.28.195
+Rank: 26
+Looking at had.28.196
+Rank: 26
+Looking at had.28.197
+Rank: 26
+Looking at had.28.198
+Rank: 26
+Looking at had.28.199
+Rank: 26
+Looking at had.28.200
+Rank: 26
+Looking at had.28.201
+Rank: 26
+Looking at had.28.202
+Rank: 26
+Looking at had.28.203
+Rank: 26
+Looking at had.28.204
+Rank: 26
+Looking at had.28.205
+Rank: 26
+Looking at had.28.206
+Rank: 26
+Looking at had.28.207
+Rank: 26
+Looking at had.28.208
+Rank: 26
+Looking at had.28.209
+Rank: 26
+Looking at had.28.210
+Rank: 26
+Looking at had.28.211
+Rank: 26
+Looking at had.28.212
+Rank: 26
+Looking at had.28.213
+Rank: 26
+Looking at had.28.214
+Rank: 26
+Looking at had.28.215
+Rank: 26
+Looking at had.28.216
+Rank: 26
+Looking at had.28.217
+Rank: 26
+Looking at had.28.218
+Rank: 26
+Looking at had.28.219
+Rank: 26
+Looking at had.28.220
+Rank: 26
+Looking at had.28.221
+Rank: 26
+Looking at had.28.222
+Rank: 26
+Looking at had.28.223
+Rank: 26
+Looking at had.28.224
+Rank: 26
+Looking at had.28.225
+Rank: 26
+Looking at had.28.226
+Rank: 26
+Looking at had.28.227
+Rank: 26
+Looking at had.28.228
+Rank: 26
+Looking at had.28.229
+Rank: 26
+Looking at had.28.230
+Rank: 26
+Looking at had.28.231
+Rank: 26
+Looking at had.28.232
+Rank: 26
+Looking at had.28.233
+Rank: 26
+Looking at had.28.234
+Rank: 26
+Looking at had.28.235
+Rank: 26
+Looking at had.28.236
+Rank: 26
+Looking at had.28.237
+Rank: 26
+Looking at had.28.238
+Rank: 26
+Looking at had.28.239
+Rank: 26
+Looking at had.28.240
+Rank: 26
+Looking at had.28.241
+Rank: 26
+Looking at had.28.242
+Rank: 26
+Looking at had.28.243
+Rank: 26
+Looking at had.28.244
+Rank: 26
+Looking at had.28.245
+Rank: 26
+Looking at had.28.246
+Rank: 26
+Looking at had.28.247
+Rank: 26
+Looking at had.28.248
+Rank: 26
+Looking at had.28.249
+Rank: 26
+Looking at had.28.250
+Rank: 26
+Looking at had.28.251
+Rank: 26
+Looking at had.28.252
+Rank: 26
+Looking at had.28.253
+Rank: 26
+Looking at had.28.254
+Rank: 26
+Looking at had.28.255
+Rank: 26
+Looking at had.28.256
+Rank: 26
+Looking at had.28.257
+Rank: 26
+Looking at had.28.258
+Rank: 26
+Looking at had.28.259
+Rank: 26
+Looking at had.28.260
+Rank: 26
+Looking at had.28.261
+Rank: 26
+Looking at had.28.262
+Rank: 26
+Looking at had.28.263
+Rank: 26
+Looking at had.28.264
+Rank: 26
+Looking at had.28.265
+Rank: 26
+Looking at had.28.266
+Rank: 26
+Looking at had.28.267
+Rank: 26
+Looking at had.28.268
+Rank: 26
+Looking at had.28.269
+Rank: 26
+Looking at had.28.270
+Rank: 26
+Looking at had.28.271
+Rank: 26
+Looking at had.28.272
+Rank: 26
+Looking at had.28.273
+Rank: 26
+Looking at had.28.274
+Rank: 26
+Looking at had.28.275
+Rank: 26
+Looking at had.28.276
+Rank: 26
+Looking at had.28.277
+Rank: 26
+Looking at had.28.278
+Rank: 26
+Looking at had.28.279
+Rank: 26
+Looking at had.28.280
+Rank: 26
+Looking at had.28.281
+Rank: 26
+Looking at had.28.282
+Rank: 26
+Looking at had.28.283
+Rank: 26
+Looking at had.28.284
+Rank: 26
+Looking at had.28.285
+Rank: 26
+Looking at had.28.286
+Rank: 26
+Looking at had.28.287
+Rank: 26
+Looking at had.28.288
+Rank: 26
+Looking at had.28.289
+Rank: 26
+Looking at had.28.290
+Rank: 26
+Looking at had.28.291
+Rank: 26
+Looking at had.28.292
+Rank: 26
+Looking at had.28.293
+Rank: 26
+Looking at had.28.294
+Rank: 26
+Looking at had.28.295
+Rank: 26
+Looking at had.28.296
+Rank: 26
+Looking at had.28.297
+Rank: 26
+Looking at had.28.298
+Rank: 26
+Looking at had.28.299
+Rank: 26
+Looking at had.28.300
+Rank: 26
+Looking at had.28.301
+Rank: 26
+Looking at had.28.302
+Rank: 26
+Looking at had.28.303
+Rank: 26
+Looking at had.28.304
+Rank: 26
+Looking at had.28.305
+Rank: 26
+Looking at had.28.306
+Rank: 26
+Looking at had.28.307
+Rank: 26
+Looking at had.28.308
+Rank: 26
+Looking at had.28.309
+Rank: 26
+Looking at had.28.310
+Rank: 26
+Looking at had.28.311
+Rank: 26
+Looking at had.28.312
+Rank: 26
+Looking at had.28.313
+Rank: 26
+Looking at had.28.314
+Rank: 26
+Looking at had.28.315
+Rank: 26
+Looking at had.28.316
+Rank: 26
+Looking at had.28.317
+Rank: 26
+Looking at had.28.318
+Rank: 26
+Looking at had.28.319
+Rank: 26
+Looking at had.28.320
+Rank: 26
+Looking at had.28.321
+Rank: 26
+Looking at had.28.322
+Rank: 26
+Looking at had.28.323
+Rank: 26
+Looking at had.28.324
+Rank: 26
+Looking at had.28.325
+Rank: 26
+Looking at had.28.326
+Rank: 26
+Looking at had.28.327
+Rank: 26
+Looking at had.28.328
+Rank: 26
+Looking at had.28.329
+Rank: 26
+Looking at had.28.330
+Rank: 26
+Looking at had.28.331
+Rank: 26
+Looking at had.28.332
+Rank: 26
+Looking at had.28.333
+Rank: 26
+Looking at had.28.334
+Rank: 26
+Looking at had.28.335
+Rank: 26
+Looking at had.28.336
+Rank: 26
+Looking at had.28.337
+Rank: 26
+Looking at had.28.338
+Rank: 26
+Looking at had.28.339
+Rank: 26
+Looking at had.28.340
+Rank: 26
+Looking at had.28.341
+Rank: 26
+Looking at had.28.342
+Rank: 26
+Looking at had.28.343
+Rank: 26
+Looking at had.28.344
+Rank: 26
+Looking at had.28.345
+Rank: 26
+Looking at had.28.346
+Rank: 26
+Looking at had.28.347
+Rank: 26
+Looking at had.28.348
+Rank: 26
+Looking at had.28.349
+Rank: 26
+Looking at had.28.350
+Rank: 26
+Looking at had.28.351
+Rank: 26
+Looking at had.28.352
+Rank: 26
+Looking at had.28.353
+Rank: 26
+Looking at had.28.354
+Rank: 26
+Looking at had.28.355
+Rank: 26
+Looking at had.28.356
+Rank: 26
+Looking at had.28.357
+Rank: 26
+Looking at had.28.358
+Rank: 26
+Looking at had.28.359
+Rank: 26
+Looking at had.28.360
+Rank: 26
+Looking at had.28.361
+Rank: 26
+Looking at had.28.362
+Rank: 26
+Looking at had.28.363
+Rank: 26
+Looking at had.28.364
+Rank: 26
+Looking at had.28.365
+Rank: 26
+Looking at had.28.366
+Rank: 26
+Looking at had.28.367
+Rank: 26
+Looking at had.28.368
+Rank: 26
+Looking at had.28.369
+Rank: 26
+Looking at had.28.370
+Rank: 26
+Looking at had.28.371
+Rank: 26
+Looking at had.28.372
+Rank: 26
+Looking at had.28.373
+Rank: 26
+Looking at had.28.374
+Rank: 26
+Looking at had.28.375
+Rank: 26
+Looking at had.28.376
+Rank: 26
+Looking at had.28.377
+Rank: 26
+Looking at had.28.378
+Rank: 26
+Looking at had.28.379
+Rank: 26
+Looking at had.28.380
+Rank: 26
+Looking at had.28.381
+Rank: 26
+Looking at had.28.382
+Rank: 26
+Looking at had.28.383
+Rank: 26
+Looking at had.28.384
+Rank: 26
+Looking at had.28.385
+Rank: 26
+Looking at had.28.386
+Rank: 26
+Looking at had.28.387
+Rank: 26
+Looking at had.28.388
+Rank: 26
+Looking at had.28.389
+Rank: 26
+Looking at had.28.390
+Rank: 26
+Looking at had.28.391
+Rank: 26
+Looking at had.28.392
+Rank: 26
+Looking at had.28.393
+Rank: 26
+Looking at had.28.394
+Rank: 26
+Looking at had.28.395
+Rank: 26
+Looking at had.28.396
+Rank: 26
+Looking at had.28.397
+Rank: 26
+Looking at had.28.398
+Rank: 26
+Looking at had.28.399
+Rank: 26
+Looking at had.28.400
+Rank: 26
+Looking at had.28.401
+Rank: 26
+Looking at had.28.402
+Rank: 26
+Looking at had.28.403
+Rank: 26
+Looking at had.28.404
+Rank: 26
+Looking at had.28.405
+Rank: 26
+Looking at had.28.406
+Rank: 26
+Looking at had.28.407
+Rank: 26
+Looking at had.28.408
+Rank: 26
+Looking at had.28.409
+Rank: 26
+Looking at had.28.410
+Rank: 26
+Looking at had.28.411
+Rank: 26
+Looking at had.28.412
+Rank: 26
+Looking at had.28.413
+Rank: 26
+Looking at had.28.414
+Rank: 26
+Looking at had.28.415
+Rank: 26
+Looking at had.28.416
+Rank: 26
+Looking at had.28.417
+Rank: 26
+Looking at had.28.418
+Rank: 26
+Looking at had.28.419
+Rank: 26
+Looking at had.28.420
+Rank: 26
+Looking at had.28.421
+Rank: 26
+Looking at had.28.422
+Rank: 26
+Looking at had.28.423
+Rank: 26
+Looking at had.28.424
+Rank: 26
+Looking at had.28.425
+Rank: 26
+Looking at had.28.426
+Rank: 26
+Looking at had.28.427
+Rank: 26
+Looking at had.28.428
+Rank: 26
+Looking at had.28.429
+Rank: 26
+Looking at had.28.430
+Rank: 26
+Looking at had.28.431
+Rank: 26
+Looking at had.28.432
+Rank: 26
+Looking at had.28.433
+Rank: 26
+Looking at had.28.434
+Rank: 26
+Looking at had.28.435
+Rank: 26
+Looking at had.28.436
+Rank: 26
+Looking at had.28.437
+Rank: 26
+Looking at had.28.438
+Rank: 26
+Looking at had.28.439
+Rank: 26
+Looking at had.28.440
+Rank: 26
+Looking at had.28.441
+Rank: 26
+Looking at had.28.442
+Rank: 26
+Looking at had.28.443
+Rank: 26
+Looking at had.28.444
+Rank: 26
+Looking at had.28.445
+Rank: 26
+Looking at had.28.446
+Rank: 26
+Looking at had.28.447
+Rank: 26
+Looking at had.28.448
+Rank: 26
+Looking at had.28.449
+Rank: 26
+Looking at had.28.450
+Rank: 26
+Looking at had.28.451
+Rank: 26
+Looking at had.28.452
+Rank: 26
+Looking at had.28.453
+Rank: 26
+Looking at had.28.454
+Rank: 26
+Looking at had.28.455
+Rank: 26
+Looking at had.28.456
+Rank: 26
+Looking at had.28.457
+Rank: 26
+Looking at had.28.458
+Rank: 26
+Looking at had.28.459
+Rank: 26
+Looking at had.28.460
+Rank: 26
+Looking at had.28.461
+Rank: 26
+Looking at had.28.462
+Rank: 26
+Looking at had.28.463
+Rank: 26
+Looking at had.28.464
+Rank: 26
+Looking at had.28.465
+Rank: 26
+Looking at had.28.466
+Rank: 26
+Looking at had.28.467
+Rank: 26
+Looking at had.28.468
+Rank: 26
+Looking at had.28.469
+Rank: 26
+Looking at had.28.470
+Rank: 26
+Looking at had.28.471
+Rank: 26
+Looking at had.28.472
+Rank: 26
+Looking at had.28.473
+Rank: 26
+Looking at had.28.474
+Rank: 26
+Looking at had.28.475
+Rank: 26
+Looking at had.28.476
+Rank: 26
+Looking at had.28.477
+Rank: 26
+Looking at had.28.478
+Rank: 26
+Looking at had.28.479
+Rank: 26
+Looking at had.28.480
+Rank: 26
+Looking at had.28.481
+Rank: 26
+Looking at had.28.482
+Rank: 26
+Looking at had.28.483
+Rank: 26
+Looking at had.28.484
+Rank: 26
+Looking at had.28.485
+Rank: 26
+Looking at had.28.486
+Rank: 26
+Looking at had.28.487
+Rank: 26
+
+Results
+Rank Number
+26   487

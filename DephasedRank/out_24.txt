@@ -1,0 +1,127 @@
+Input matrix size: 24
+Input number of matrices: 60
+
+Looking at had.24.1
+Rank: 11
+Looking at had.24.2
+Rank: 11
+Looking at had.24.3
+Rank: 11
+Looking at had.24.4
+Rank: 11
+Looking at had.24.5
+Rank: 11
+Looking at had.24.6
+Rank: 11
+Looking at had.24.7
+Rank: 11
+Looking at had.24.8
+Rank: 11
+Looking at had.24.9
+Rank: 11
+Looking at had.24.10
+Rank: 11
+Looking at had.24.11
+Rank: 11
+Looking at had.24.12
+Rank: 11
+Looking at had.24.13
+Rank: 11
+Looking at had.24.14
+Rank: 11
+Looking at had.24.15
+Rank: 11
+Looking at had.24.16
+Rank: 11
+Looking at had.24.17
+Rank: 11
+Looking at had.24.18
+Rank: 11
+Looking at had.24.19
+Rank: 11
+Looking at had.24.20
+Rank: 11
+Looking at had.24.21
+Rank: 11
+Looking at had.24.22
+Rank: 11
+Looking at had.24.23
+Rank: 11
+Looking at had.24.24
+Rank: 11
+Looking at had.24.25
+Rank: 11
+Looking at had.24.26
+Rank: 11
+Looking at had.24.27
+Rank: 11
+Looking at had.24.28
+Rank: 11
+Looking at had.24.29
+Rank: 11
+Looking at had.24.30
+Rank: 11
+Looking at had.24.31
+Rank: 11
+Looking at had.24.32
+Rank: 11
+Looking at had.24.33
+Rank: 11
+Looking at had.24.34
+Rank: 11
+Looking at had.24.35
+Rank: 11
+Looking at had.24.36
+Rank: 11
+Looking at had.24.37
+Rank: 11
+Looking at had.24.38
+Rank: 11
+Looking at had.24.39
+Rank: 11
+Looking at had.24.40
+Rank: 11
+Looking at had.24.41
+Rank: 11
+Looking at had.24.42
+Rank: 11
+Looking at had.24.43
+Rank: 11
+Looking at had.24.44
+Rank: 11
+Looking at had.24.45
+Rank: 11
+Looking at had.24.46
+Rank: 11
+Looking at had.24.47
+Rank: 11
+Looking at had.24.48
+Rank: 11
+Looking at had.24.49
+Rank: 11
+Looking at had.24.50
+Rank: 11
+Looking at had.24.51
+Rank: 11
+Looking at had.24.52
+Rank: 11
+Looking at had.24.53
+Rank: 11
+Looking at had.24.54
+Rank: 11
+Looking at had.24.55
+Rank: 11
+Looking at had.24.56
+Rank: 11
+Looking at had.24.57
+Rank: 11
+Looking at had.24.58
+Rank: 11
+Looking at had.24.59
+Rank: 11
+Looking at had.24.60
+Rank: 11
+
+Results
+Rank Number
+11   60
