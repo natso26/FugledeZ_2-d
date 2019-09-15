@@ -191,7 +191,7 @@ x must satisfy the following.
    are 1.
 
    To prove this, we first observe that the first k coordinates
-   of fst are 1. If not, then fst > snd, a contradiction.
+   of fst are 0. If not, then fst > snd, a contradiction.
    Then if this condition is not satisfied, then we can permute
    coordinates so that fst and snd are fixed and x becomes
    smaller than thd.
